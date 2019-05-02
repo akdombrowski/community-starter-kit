@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A bot that automatically sends a welcome message to new users opening an issue, merging, or pulling.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Automatically send messages to new users
+Works for pull requests and issues
 
 ## Getting started
 
