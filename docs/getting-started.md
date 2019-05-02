@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+"Hi, thanks for contributing to the project. We look forward to working with you."
+"Your contribution is invaluable! Nice job!"
